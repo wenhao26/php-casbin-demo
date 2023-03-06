@@ -1,0 +1,6 @@
+{
+    "require": {
+        "casbin/casbin": "^3.20",
+        "casbin/database-adapter": "^1.6"
+    }
+}
